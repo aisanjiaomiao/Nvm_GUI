@@ -186,7 +186,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(148, 20);
             this.label3.TabIndex = 6;
-            this.label3.Text = "作者:爱对手的三角喵";
+            this.label3.Text = "作者:爱动手的三角喵";
             // 
             // linkLabel3
             // 
@@ -206,7 +206,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(148, 20);
             this.label1.TabIndex = 4;
-            this.label1.Text = "发布日期:2022-4-24";
+            this.label1.Text = "发布日期:2022-4-23";
             // 
             // linkLabel2
             // 
