@@ -10,8 +10,8 @@ windows下 nvm 可视化管理工具
 
 #### 使用
 
-![doc/切换版本.gif](切换版本.gif)
+![切换版本](doc/切换版本.gif)
 
-![doc/下载.gif](下载.gif)
+![下载](doc/下载.gif)
 
-![doc/删除.gif](删除.gif)
+![删除](doc/删除.gif)
